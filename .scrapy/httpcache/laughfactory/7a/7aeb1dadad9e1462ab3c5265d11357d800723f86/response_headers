@@ -1,0 +1,14 @@
+Cache-Control: no-cache="set-cookie"
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Mon, 04 Feb 2019 10:34:44 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ea927fff0dd83cc54563834ed8509ca8%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.25.178%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549276484%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D23c3f53e36027f4161e4020f20c4e22b2f469106; expires=Mon, 04-Feb-2019 12:34:44 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ea927fff0dd83cc54563834ed8509ca8%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.25.178%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549276484%3B%7Deaddbbeda02ee8d81e449de079a3f583e33dfaae; expires=Mon, 04-Feb-2019 12:34:44 GMT; Max-Age=7200; path=/
+Set-Cookie: newuser=fad91fd4-dec1-4776-8fb7-b158483933f9; expires=Tue, 04-Feb-2020 10:34:44 GMT; Max-Age=31536000
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ea927fff0dd83cc54563834ed8509ca8%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.25.178%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549276484%3B%7Deaddbbeda02ee8d81e449de079a3f583e33dfaae; expires=Mon, 04-Feb-2019 12:34:44 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ea927fff0dd83cc54563834ed8509ca8%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.25.178%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549276484%3B%7Deaddbbeda02ee8d81e449de079a3f583e33dfaae; expires=Mon, 04-Feb-2019 12:34:44 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ea927fff0dd83cc54563834ed8509ca8%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.25.178%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549276484%3B%7Deaddbbeda02ee8d81e449de079a3f583e33dfaae; expires=Mon, 04-Feb-2019 12:34:44 GMT; Max-Age=7200; path=/
+Set-Cookie: AWSELB=1BD7F1928B502022DBB2C7D9B4073A97A6B5B7A6F248D40E064BB3F342096C5F3ADA7C00B5DFCB1CE228198085E1B1EC68CB1194E261DB3EFBBFAE16DDE847AE6E5D9EC3;PATH=/;MAX-AGE=60
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.9-1ubuntu4.26

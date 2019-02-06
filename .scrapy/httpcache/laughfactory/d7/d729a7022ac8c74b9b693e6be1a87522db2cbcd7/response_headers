@@ -1,0 +1,7 @@
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Mon, 04 Feb 2019 11:23:23 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22b19f5b3038345a4e728314f4801ab965%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.20.168%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549279390%3B%7D78c4d90426294933546bb037362a87a7b039a73b; expires=Mon, 04-Feb-2019 13:23:23 GMT; Max-Age=7200; path=/
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.9-1ubuntu4.26

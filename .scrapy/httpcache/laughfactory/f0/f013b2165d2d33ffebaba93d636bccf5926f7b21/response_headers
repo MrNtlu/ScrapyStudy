@@ -1,0 +1,12 @@
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Mon, 04 Feb 2019 11:22:51 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: ci_session=a%3A0%3A%7B%7D; expires=Sun, 04-Feb-2018 21:22:51 GMT; Max-Age=-31500000; path=/
+Set-Cookie: ci_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283f81408ad80cab631790f9aa6b84dd6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.20.168%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549279371%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D8f51458ef644d970e5638f35bc6b1c12de6d2969; expires=Mon, 04-Feb-2019 13:22:51 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283f81408ad80cab631790f9aa6b84dd6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.20.168%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549279371%3B%7Dd088b184c20b0f0ce3585828ec4f0a17c6e2d3f2; expires=Mon, 04-Feb-2019 13:22:51 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283f81408ad80cab631790f9aa6b84dd6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.20.168%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549279371%3B%7Dd088b184c20b0f0ce3585828ec4f0a17c6e2d3f2; expires=Mon, 04-Feb-2019 13:22:51 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283f81408ad80cab631790f9aa6b84dd6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.20.168%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549279371%3B%7Dd088b184c20b0f0ce3585828ec4f0a17c6e2d3f2; expires=Mon, 04-Feb-2019 13:22:51 GMT; Max-Age=7200; path=/
+Set-Cookie: ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283f81408ad80cab631790f9aa6b84dd6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.0.20.168%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A34%3A%22Scrapy%2F1.5.2+%28%2Bhttps%3A%2F%2Fscrapy.org%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1549279371%3B%7Dd088b184c20b0f0ce3585828ec4f0a17c6e2d3f2; expires=Mon, 04-Feb-2019 13:22:51 GMT; Max-Age=7200; path=/
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.9-1ubuntu4.26

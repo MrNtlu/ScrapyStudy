@@ -1,0 +1,10 @@
+Accept-Ranges: bytes
+Cache-Control: no-cache="set-cookie"
+Content-Encoding: gzip
+Content-Type: text/plain
+Date: Mon, 04 Feb 2019 11:33:16 GMT
+Etag: "102f9-537173a00d2fd-gzip"
+Last-Modified: Fri, 08 Jul 2016 03:16:20 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Set-Cookie: AWSELB=1BD7F1928B502022DBB2C7D9B4073A97A6B5B7A6F248D40E064BB3F342096C5F3ADA7C00B5DFCB1CE228198085E1B1EC68CB11940BD728CBA378AF0E499E9F2CB3AD40D5;PATH=/;MAX-AGE=60
+Vary: Accept-Encoding
