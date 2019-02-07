@@ -1,0 +1,1254 @@
+[
+    {
+        "title": "Computer Science",
+        "subject": "Artificial Intelligence",
+        "description": "Probabilistic Graphical Models 3: Learning",
+        "course_desc": "This module presents some of the learning tasks for probabilistic graphical models that we will tackle in this course.This module contains some basic concepts from the general framework of machine learning, taken from Professor Andrew Ng's Stanford class offered on Coursera. Many of these concepts are highly relevant to the problems we'll tackle in this course.This module discusses the simples and most basic of the learning problems in probabilistic graphical models: that of parameter estimation in a Bayesian network. We discuss maximum likelihood estimation, and the issues with it. We then discuss Bayesian estimation and how it can ameliorate these problems.In this module, we discuss the parameter estimation problem for Markov networks - undirected graphical models. This task is considerably more complex, both conceptually and computationally, than parameter estimation for Bayesian networks, due to the issues presented by the global partition function.This module discusses the problem of learning the structure of Bayesian networks. We first discuss how this problem can be formulated as an optimization problem over a space of graph structures, and what are good ways to score different structures so as to trade off fit to data and model complexity. We then talk about how the optimization problem can be solved: exactly in a few cases, approximately in most others.In this module, we discuss the problem of learning models in cases where some of the variables in some of the data cases are not fully observed. We discuss why this situation is considerably more complex than the fully observable case. We then present the Expectation Maximization (EM) algorithm, which is used in a wide variety of problems.This module summarizes some of the issues that arise when learning probabilistic graphical models from data. It also contains the course final.This module contains an overview of PGM methods as a whole, discussing some of the real-world tradeoffs when using this framework in practice. It refers to topics from all three of the PGM courses.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "Artificial Intelligence",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "Foreign Language",
+        "description": "Chino básico: Cómo dar una primera impresión positiva",
+        "course_desc": "¡Bienvenidos al primer módulo! En este módulo aprenderemos los saludos y despedidas más comunes y el alfabeto Pinyin. Este es el primer paso que tenemos que tomar para aprender el idioma chino. Toda la información que aprendemos aquí se repetirá en los siguientes módulos y cursos de la especialización.¡Bienvenidos al segundo módulo! Al terminar este módulo ustedes podrán presentarse en chino y decir de donde son. Aquí comenzamos a formar conversaciones básicas. ¡Felicidades! Ya llegaron al tercer módulo. Aquí aprendemos los números en chino, algo muy necesario para seguir aprendiendo el idioma.Ya que aprendimos los números, ahora sabemos lo que necesitamos saber para hablar de la fecha en chino. Este módulo nos enseña cómo decir y escribir la fecha. ¡Hěn hǎo! Ya llegaron al ultimo módulo de contenido. Ahora van a poder poner en práctica todo lo que aprendieron en los módulos anteriores. Aquí aprenderemos como llevar conversaciones básicas sobre temas cotidianos, como los deportes y la familia. ¡Hěn hǎo! ¡Felicidades! Es hora de tomar el examen final del curso. Al tomar este examen, verán lo mucho que han aprendido y también lo que les falta por practicar. ¡Buena suerte!",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "Foreign Language",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "Spanish",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "Literature",
+        "description": "Othello's Story",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Literature",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$49 Certificate Available",
+            "Effort": "3-5 hours a week",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "China’s Political and Intellectual Foundations: From Sage Kings to Confucius",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$90 Certificate Available",
+            "Effort": "1-3 hours a week",
+            "Duration": "15 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Chemistry",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Independent",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "60 hours worth of material"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Biology",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Independent",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "American Literature",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Independent",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "48 hours worth of material"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "American Government",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Independent",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "On Ramp to AP* Biology",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "4-20 hours a week",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "On-Ramp to AP* Physics C: Mechanics",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "1-2 hours a week",
+            "Duration": "12 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Prepare for Your SAP HANA Certification - Development Associate",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "openSAP",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "1 hours worth of material"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "TOEFL® Test Preparation: The Insider’s Guide",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$49 Certificate Available",
+            "Effort": "2-4 hours a week",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "CSET Science Subtest II Exam Preparation Resource",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Canvas Network",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "7 hours a week"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "CSET Science Subtest I Exam Preparation Resource",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Canvas Network",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "5 hours a week"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "CSET Math Subtest III Exam Preparation Resource",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Canvas Network",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "5 hours a week"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "CSET Math Subtest II Exam Preparation Resource",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Canvas Network",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "5 hours a week"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP Physics 1 Exam",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "In progress",
+            "Language": "English",
+            "Certificate": "$29 Certificate Available",
+            "Effort": "5-6 hours a week",
+            "Duration": "35 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "On-Ramp to AP® French Language and Culture",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-3 hours a week",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "75+ Hour Free Coding Course",
+        "course_desc": "",
+        "course_info": {}
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "CSET Math Subtest I Exam Preparation Resource",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Canvas Network",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP* Physics C: Electricity and Magnetism Exam",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "6-10 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP Physics 1",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$49 Certificate Available",
+            "Effort": "3-4 hours a week",
+            "Duration": "18 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for CLEP Chemistry: Part 1",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "8-12 hours a week",
+            "Duration": "8 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for CLEP Chemistry: Part 2",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "8-12 hours a week",
+            "Duration": "8 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP* Statistics Exam",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "10-15 hours a week",
+            "Duration": "35 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP* English Language and Composition Exam",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "10-15 hours a week",
+            "Duration": "35 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Biology - Part 5: Review and Exam Preparation",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 1 - Part 4: Exam Prep",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "4-6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 2 – Part 4: AP Review and Exam Preparation",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Environmental Science - Part 4: Exam Review",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for College:  The Placement Test",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Canvas Network",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "1-2 hours a week"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 1 - Part 3: Electricity & Waves",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "4-6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Biology - Part 4: Ecology",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Environmental Science - Part 3: Pollution and Resources",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 2 - Part 3: Optics and Modern Physics",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP Calculus AB Exam – Part 2: Integrals",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Biology - Part 3: Evolution and Diversity",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 1 - Part 2: Rotational Motion",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "4-6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 1 - Part 1: Linear Motion",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "3-5 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Biology - Part 2: Genetics",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Environmental Science - Part 2: Populations",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 2 - Part 2: Electricity and Magnetism",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP Calculus AB Exam – Part 1: Derivatives",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Biology - Part 1: The Cell",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Environmental Science - Part 1: The Living World",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Physics 2 - Part 1: Fluids and Thermodynamics",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "2-4 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "On-Ramp to AP* Calculus",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Finished",
+            "Language": "English",
+            "Effort": "4-5 hours a week",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP* Computer Science A Exam — Part 2",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "4-6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the AP* Computer Science A Exam — Part 1",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Effort": "4-6 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Understanding IELTS: Techniques for English Language Tests",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "FutureLearn",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "In progress",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "2 hours a week",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for an International Health Elective: Exploring Global Health, Ethics and Safety",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "FutureLearn",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "2 hours a week",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "AP® Spanish Language and Culture",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "$50 Certificate Available",
+            "Effort": "3-4 hours a week",
+            "Duration": "12 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Prepare for the EMT Certification Test",
+        "course_desc": "Welcome to your final course in Become and EMT!  Prepare for the National Registry exam. \nThe title for this course is a little bit misleading.  We do hope that at the completion of this course that you feel more prepared to take the skills portion as well as the written portion of the national registry exam.  More than anything else, however, our greatest hope is that we have given you the knowledge and tools to provide high quality patient care once you are certified as an EMT or once you achieve whatever level of patient care provider you aspire to.  I think many of you have experienced in school or other training the difference between knowing the information needed to pass a test and being able to apply that information to a real life problem.  We want you to be able to apply your knowledge! \n\nTo accomplish this, there will be videos from prior courses to review, links to the national registry patient care checklists, and you will use these resources to complete a series of patient care scenarios that challenge you to apply what you have learned over the past 5 courses.  \n\nThe next couple of weeks are designed to stretch your knowledge and guide you to apply it to potentially real patient presentations.  In addition, you will have the opportunity to practice peer review on the care plans that your fellow learners put together.  Not only does this provide you the opportunity to see what other people would do in a similar situation but also reinforces your understanding of the material.  Good luck and have fun with this last portion of the specialization!",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "5 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "description": "Preparing for the Google Cloud Professional Data Engineer Exam",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "Test Prep",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "6-8 hours a week",
+            "Duration": "1 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Negotiating a Changing World: 1920-1950",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$50 Certificate Available",
+            "Effort": "2-3 hours a week",
+            "Duration": "10 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Seeking Women’s Rights: Colonial Period to the Civil War",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$50 Certificate Available",
+            "Effort": "2-3 hours a week",
+            "Duration": "10 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Fighting for Equality: 1950–2018",
+        "course_desc": "As we see American women coming into positions of economic and political influence, we start to wonder: why now? The Women Have Always Worked MOOC, offered in four parts, explores the history of women in America and introduces students to historians’ work to uncover the place of women and gender in America’s past.The final segment of the Women Have Always Worked series begins with an examination of how the Cold War reinforced the ideals of the suburban, nuclear family and how these ideals impacted women's trajectory towards independence and equality. We will explore the growing discrepancy and conflict between the breadwinner-homemaker system of beliefs and efforts for peace, economic fairness, and gender equality. We will discover how the feminist movement grew and evolved from the 1960s to today.This exploration into the evolution of the feminist movement continues with a new section that examines the current climate in America. We will take a look at the 2016 presidential campaign and how women across the globe reacted to the results of that election; the rise of the Me Too movement and other grass roots activism led by women and aimed at social and economic inequality; and how the 2018 midterm election ushered in a new era of women in politics.Together we will learn how women began to ask for equality and what the word equality meant and still means for different women. But we'll also ask you to consider a more difficult set of questions that revolve around whether equality for some women might limit the freedom of others. Will women demand benefits for themselves that provide a few with equality with men while fomenting inequality with each other? What about sisterhood? Will some of us move forward while others are left behind? These are questions that haunt us today.",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$50 Certificate Available",
+            "Effort": "2-3 hours a week",
+            "Duration": "10 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Wage Work for Women Citizens: 1870-1920",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Self Paced",
+            "Language": "English",
+            "Certificate": "$50 Certificate Available",
+            "Effort": "2-3 hours a week",
+            "Duration": "10 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "中国古代礼义文明 | China’s Ancient Ritual Civilization",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Upcoming",
+            "Language": "Chinese",
+            "Certificate": "$49 Certificate Available",
+            "Effort": "2-3 hours a week",
+            "Duration": "10 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The Fall of the Roman Republic",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "FutureLearn",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "3 hours a week",
+            "Duration": "4 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Roman Art and Archaeology",
+        "course_desc": "Here you can find all of the introductory information, course syllabus, and helpful resources.In the Early Iron Age (ca. 1000 BCE), civilization in Italy was rather simple. The most sophisticated cultures in the peninsula were not the Romans at all, but rather groups to the north of Rome who have come to be called The Villanovans, who exploited the metal resources of northern Italy even before the officially noted founding of Rome. Later the Etruscans would appear (ca. 800 BCE), Rome's first great rivals. The Etruscans were a loose confederation of city-states north of Rome who even expanded into Rome and further south, as far as Pompeii. The Etruscans are particularly noted for their magnificent art, in particular the glorious painted tombs of Tarquinia.Having thrown off the Etruscans in 509 BCE., Rome emerged as independent Latin community that quickly became known for its disciplined army and militaristic intentions. As the Romans expanded throughout the Mediterranean, it came into contact with various cultures, all who had an influence on the young power, especially Greek culture, art, and architecture. By the end of this period Rome may have grown to a million people. The first century BCE. was a time of amazing development in many fields of artistic endeavor, but it was also a time of civil unrest as soldiers became more loyal to their commanders than to the state. Leaders such as Sulla, Marius, Julius Caesar, Mark Antony and others took advantage of this turmoil, which culminated with the powerful influence of the decadent Egyptian charmer Cleopatra and the emergence of Octavian. Augustus - formerly known as Octavian - set the tone for the next major phase of Rome: the Roman empire.  His family-related successors, the Julio-Claudians, would continue his rule. Yet none of his successors had the charisma or vision of Augustus himself, and some such as Caligula and Nero have become synonymous with profligacy and decadence of an extreme nature. By the year 69 CE. Rome was in chaos. But the emperor Vespasian restored order and dignity - not to mention humility - to the office, and instituted his own dynasty, the Flavians. Unfortunately, Vespasian's second son, Domitian, brought his Flavian dynasty to an end through dreadful administration. Domitian was murdered in 96 CE.Rome is said to have reached its zenith in security and expansion during the period of the \"Five Good Emperors\" (96 to 180 CE.). The time of Trajan (98 to 117 CE.) was a particular epoch of conquest and building, highlighted by the construction of Trajan's Markets and enormous Forum, the ruins of which still dominate the center of Rome. Trajan's successor, Hadrian, was a horse of a different color. He was himself an architect obsessed with circles, squares, spheres, and cubes. And his fondness for Greek art bordered on manic.What does it mean to talk about the fall of Rome? The far-flung empire collapsed in varying degrees in different places at different times. In the fourth century enormous earthquakes caused such devastation that in the Roman east the whole fabric of ancient religious belief was called into question. In central Italy along the Tiber River an epidemic of malaria, a virulent new-mutated strain from North Africa, left many dead. The legacy of Rome, however, continued into the Carolingian and Byzantine empires. And yet the city of Rome underwent a major revival in the later Middle Ages, continuing through the Renaissance, Baroque, Rococo and Romantic Periods, playing a major role in the foundation of our own country.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The Holocaust - An Introduction (I): Nazi Germany: Ideology, The Jews and the World",
+        "course_desc": "The Holocaust was an inconceivable historical event, which forever robbed Western culture of its innocence. As civilized human beings, we fail to understand how events of such horror could have taken place, and how an idea so inhumanly warped could have spread like wildfire through an entire continent, instigating the systematic annihilation of millions of Jews.\n\nThis free online course was produced jointly by Tel Aviv University and Yad Vashem – the World Holocaust Remembrance Center. The course tracks the history of the Holocaust and has two parts. \"The Holocaust - An Introduction (I): Nazi Germany: Ideology, The Jews and the World\" is the first of the two courses and covers the following themes in its three weeks:\n\nWeek 1: From Hatred to Core Ideology\nWe will try to delve into Nazi ideology and the special place of Jews and Judaism in it. We will also discuss how the National Socialist Party converted the German Democracy of the Weimar Republic into a totalitarian regime within a short period of time, and its meaning for Jews and non-Jewish citizens.\n\nWeek 2: The World and the Jews in World War II\nWe will try to examine the broader contexts of the Holocaust and to place it, as part of World War 2. In this meeting we will also refer to the vital Jewish world to be found under various Nazi occupations and influences.\n\nWeek 3: The Isolation Abyss - the Perspective of the Individual\nWe will try to reveal different aspects of Jewish life in the face of the badge of shame, ghettos and segregation, as well as the formation of individual, societies’ and leader’s reactions in the face of a consistent policy of dispossession and discrimination.\n\nOnce you’ve completed this course, you can continue your learning with The Holocaust - An Introduction (II): The Final Solution (https://www.coursera.org/learn/holocaust-introduction-2/home/welcome)\n\n\nThis online course is offered in an innovative, multi-level format, comprising:\n\n* Comprehensive lectures by leading researchers from Tel Aviv University and Yad Vashem.\n* A wealth of voices and viewpoints presented by guest lecturers.\n* Numerous documents, photos, testimonies and works of art from the time of the Holocaust.\n* Novel learning experience: Crowd sourcing – involving the learners themselves in the act of collecting and shaping information, via unique, exciting online assignments.\n\nREQUIREMENTS:\nThis course is designed for anyone with an interest in the Holocaust, including students, teachers, academics and policy-makers.\n      \n          We will try to delve into Nazi ideology and the special place of Jews and Judaism in it. We will ask ourselves what, if anything, it renewed regarding traditional hatred of Israel and modern anti-Semitism and analyze Nazi documents to see how it reflects in them. Also, in this lesson we will discuss how the National Socialist Party succeeded in converting the German Democracy of the Weimar Republic into a totalitarian regime within a short period of time, and the significance of this process for its citizens - Jews and non-Jews alike.We will try to examine the broader contexts of the Holocaust and to position it as a part of a various global conflicts that took place during world war 2. In this context, we will focus in a number of unique realities that were formed and created in Occupied Poland and France using them to identify key practices of Nazi Germany, European companies and the Jews who lived among them. We’ll look at the different fates of Jews in various European countries before and during World War 2, through the lens of the enormous changes which the Jewish world underwent in modern times: emancipation, secularization, urbanization and emigration.Instead of policy, state and society at large, we’ll focus on the individual, the family and the Jewish communities across Europe, using a broad range of wartime accounts: official documents, diaries, letters, artwork and more. In this context, we will try to reveal different aspects of Jewish life in the face of shame, ghettos and segregation, as well as the formation of individual, societies and leaders reactions in the face of consistent policy of dispossession and discrimination. A variety of sources will help us create a complex puzzle consists of Jewish life in those dark days. In this context, we will try to reveal different aspects of Jewish life in the face of shame, ghettos and segregation, as well as the formation of individual, societies and leaders reactions in the face of consistent policy of dispossession and discrimination. A variety of sources will help us create a complex puzzle consists of Jewish life in those dark days.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Toledo: Deciphering Secrets of Medieval Spain",
+        "course_desc": "This course evaluates the medieval history of Toledo from the era of the Visigoth Kingdom (6th-8th centuries) through its Islamic period (8th to 11th centuries) and into its reintegration into Christian Spain (after 1085 c.e.) In particular, we take note of the cultural and religious transformations that characterized the city with a special effort to understand how many peoples and religions came to settle and live amongst one another. We will virtually-tour the Islamic and Christian structures of the Museo de Santa Cruz, Iglesia de San Román, Sinagoga del Tránsito, Mezquita de Bab al-Mardum, Archivo Municipal de Toledo, and the Archivo Historico de la Nobleza.\n\nWe examine the Visigoths transition from Christian Arianism to Catholicism and the harsh treatment of the Jewish population. We explore Islamic governance and development of the medieval city of three faiths, with a special interest in its cultural achievements. We will study King Alfonso “The Wise” (1252-1284)’s efforts to characterize himself as the “king of three religions” via his legal codices, the creation of the Cantigas de Santa María, and his intellectual endeavor known as the Toledo School of Translators. We evaluate the robust Jewish and converso noble families of the city and appreciate their intellectual, religious, and economic contributions to Castilian life. We will bear witness to the rise of anti-Jewish blood purity statutes, the creation of the Inquisition, and the expulsion of the Jews. We also briefly introduce and study Spanish manuscripts from the municipal and cathedral archives to make new scholarly breakthroughs relating to the Jewish, Christian, and Muslim interrelations.\n\nNo knowledge of Spanish is needed to participate in the course or in our transcription efforts.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "2-4 hours a week",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Science and Technology in the Silla Cultural Heritage",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "Culture",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "Korean",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Introduction to Ancient Egypt and Its Civilization",
+        "course_desc": "Colossal pyramids, imposing temples, golden treasures, enigmatic hieroglyphs, powerful pharaohs, strange gods, and mysterious mummies are features of Ancient Egyptian culture that have fascinated people over the millennia.  The Bible refers to its gods, rulers, and pyramids. Neighboring cultures in the ancient Near East and Mediterranean wrote about its god-like kings and its seemingly endless supply of gold.  The Greeks and Romans describe aspects of Egypt's culture and history.\n\nAs the 19th century began, the Napoleonic campaign in Egypt highlighted the wonders of this ancient land, and public interest soared.  Not long after, Champollion deciphered Egypt's hieroglyphs and paved the way for other scholars to reveal that Egyptian texts dealt with medicine, dentistry, veterinary practices, mathematics, literature, and accounting, and many other topics. Then, early in the 20th century, Howard Carter discovered the tomb of Tutankhamun and its fabulous contents. Exhibitions of this treasure a few decades later resulted in the world's first blockbuster, and its revival in the 21st century has kept interest alive.\n\nJoin Dr. David Silverman, Professor of Egyptology at Penn, Curator in Charge of the Egyptian Section of the Penn Museum, and curator of the Tutankhamun exhibitions  on a guided tour of the mysteries and wonders of this ancient land.  He has developed this online course and set it in the galleries of the world famous Penn Museum.  He uses many original Egyptian artifacts to illustrate his lectures as he guides students as they make their own discovery of this fascinating culture.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The Rooseveltian Century",
+        "course_desc": "This course uses the lives, ideals and achievements of Theodore, Franklin, and Eleanor Roosevelt to create the idea of a Rooseveltian century. It is about doing research, analyzing primary sources, and connecting all this information with a coherent and logical interpretation. It is an invitation to think critically and historically, and it wants to give you a glimpse of what it means to be a historian at work. \n\nWe are convinced that the three Roosevelts – the 3Rs, as we will refer to them throughout this course – profoundly shaped the twentieth century. This course shows you why we think so and which paradigms, ideas, and sources we use to uphold our claim. But this course also asks you to give your opinion, and ground it on your own research findings. \n\nThe structure of the course is straightforward: \n- An introductory module gives you the biographical information you need to connect the personal stories of the 3Rs with the major events of the twentieth century;\n-  Module 2 explains how the 3Rs reframed our thinking on security, broadening its meaning and reconfiguring the government’s role in providing it; \n- Module 3, focusing on equality, shows how the 3Rs changed the relationship between leaders and led, rejected laissez-faire economics, and supported a politics of intervention to overcome the inequalities that undermined social cohesion;\n- Module 4 describes how the 3Rs promoted and protected the freedom of ordinary citizens, and communicated that as one of their central political goals;\n- Module 5 summarizes the long-lasting legacies of the 3Rs, and asks for your opinion on the Rooseveltian century. Do you agree with this interpretation of our recent past – and our possible futures?\n\nThe five modules contain quizzes to test your knowledge and understanding, discussion prompts to stimulate your creativity, and research guidance and assignments to sharpen up your historical skills. \n\nWe hope you will enjoy this intellectual journey!\n      \n          This module focuses on the foundational elements of this course. It explores the biographies of the 3Rs, their public achievements, and what motivated them to become the major public figures that we recognise today. The overall learning goal is to make students aware of the connections between the bios of the 3Rs and the rise of the U.S. as a global power in the twentieth century. This module focuses on the concept of security and how each of the Roosevelts understood it and defined it in their own way. Students will learn the distinction between national, social, and human security and will assess the influence of the 3Rs in expanding the meaning of security and how we use the word today.This module focuses on the concepts of equality and social justice. Students will learn to identify how the 3Rs contributed to the promotion of social, political and economic equality and will be able to recognize their most lasting achievements in securing equality and social justice in the United States and around the world.This module focuses on the ideas and ideals of freedom that the 3Rs promoted throughout their lives. Students will see how the 3Rs put forward a multi-dimensional understanding of freedom, covering many different rights and liberties. This module focuses on the Rooseveltian legacy. Students will learn to recognize the innovative elements that the 3Rs brought to modern-day politics, and how their legacies live on through their particular skills and achievements as political campaigners, administrative innovators, popular mobilisers, multi-media communicators, and wide-ranging reformers.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "4-6 hours a week",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The History of Modern Israel – Part I: From an Idea to a State",
+        "course_desc": "How did the State of Israel come to be? How is it that an idea, introduced in 19th century Europe, became a reality? And how does that reality prevail in the harsh complexities of the Middle East?\n\nPresented by Professor Eyal Naveh, with additional units from Professor Asher Sussers' \"The Emergence of the Modern Middle East\" course, This course will take you on a journey through the history of Modern Israel. In this 1st part of the course we will explore:\n\nHow did the 19th century idea of a Jewish state become a reality? \n\nSo the next time you hear about Israel in the news, you will be informed enough about the history of this area to comprehend the many sides and narratives that interact to shape the complex reality of Israel today.\n\nPlease note that there is a second part to this course \"The History of Modern Israel - Part II: Challenges of Israel as a sovereign state\" which is a direct extension of this part. We highly recommend to continue to the second part after you finish this one (https://www.coursera.org/learn/history-israel-sovereign-state).\n\nIn order to receive academic credit for this course you must successfully pass the academic exam on campus. For information on how to register for the academic exam – https://tauonline.tau.ac.il/registration\n\nAdditionally, you can apply to certain degrees using the grades you received on the courses. Read more on this here – \nhttps://go.tau.ac.il/b.a/mooc-acceptance\n\nTeachers interested in teaching this course in their class rooms are invited to explore our Academic High school program here – https://tauonline.tau.ac.il/online-highschool\n\n\n* This course is a joint effort of Tel Aviv University &  Israel Institute (www.israelinstitute.org)\n* This course uses media material from various archives, courtesy to Yad Vashem Archive for their help.\n* This course is self-paced. Once you register,  you can participate in the course anytime, as often as you wish and over any stretch of time\n      \n          This module will discuss the major reasons for the rise of the Zionist movement as the national movement of the Jewish people, as a modern, European phenomenon at the last third of the nineteenth century. It will focus on the main features of the movement as well as its first projects in Palestine. The module will end with the impact of World War I on Jews in general and on the Zionist movement in particular, leading to the Balfour deceleration. Focusing on the first two decades of the British Mandate in Palestine, this module will explore the relationship between British authorities, Jews, and Arabs in the area. It will characterize the nature of the Zionist society that developed during this time by characterizing it as a \"state in a process\". It will also point to the emergence of initial Palestinian nationalism and its struggle against both the British authorities and the continuation of Jewish immigration and national building.This module will explore the most tragic event of the Twentieth century, namely the Second World War and the Holocaust. It will discuss the impact of this event on the Jewish Zionist society in Palestine. The module will continue by looking at the Zionist struggle against the British Mandate following the years of the war, the British decision to leave the area, the UN suggestion to create two states, one Jewish and one Arab, the failure of this project and the break of the war between Jews and Palestinians. We will analyze the declaration of independence and the creation of Israel as a sovereign state that had to fight for its existence and succeed to defend itself against an invasion of neighboring Arab states. It will explain the Palestinian catastrophe and the tragedy of Palestinian refugees.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "3 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The Holocaust: The Destruction of European Jewry",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "8 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Chinese Culture and Contemporary China",
+        "course_desc": "This course of Chinese Culture and Contemporary China will explore the foundations of Chinese civilization and the dimensions of Chinese culture. It will pay particular attention to the relationship between Chinese culture and the present-day life of the Chinese people and to the different elements of the culture which are under the present social structures, belief systems, literature, arts, customs, etc. The course aims at providing students with a deeper knowledge of Chinese culture, thus enabling them to better understand China. \nThe course will cover the following main areas of topics: (1) the foundations of Chinese civilization: its geography, language, and history; (2) the core concepts in Chinese philosophies and religions: Confucianism, Taoism, and Buddhism; (3), literature and arts, including Chinese calligraphy, painting, Tang poetry, and classical fiction; (4) society and life, including education, the role of women, Chinese food, and traditional holidays; (5) travel and landscapes, including well-known Chinese cities, mountains, ethnic regions and customs; (6) Chinese media, culture and sports, including TV and movies, fashion, Chinese gongfu and taiji. \nIn addition, students will be expected to participate in a buddy program beyond curriculum if they have a chance to come to Nanjing. Ideally they will be paired up: an international student with a Nanjing University student to allow students to learn firsthand about Chinese customs, culture, and language. Students will be required to complete various projects and homework assignments as well, which will encourage them to use Nanjing University and the city of Nanjing as a laboratory to apply what they learn during their stay at Nanjing University.\n      \n          Confucian culture is the cornerstone of traditional Chinese culture. In this segment, we introduce the three basic concepts of Confucian culture: Li or ritual etiquette, Ren or benevolence, and Tao. In the Confucian view, the variety of practiced rituals maintains the balance of society. Benevolence is the core of the ritual because only with benevolence one can truly observe li. Tao is the natural laws or order of the universe. One has to research the objective universe genuinely, to find those natural laws, and then use what was found to structure the human world. All these elements make the benevolence great.In this unit, we introduce the world of Chinese painting, which is one of the oldest continuous artistic traditions in the world. We discuss three important features that make Chinese art of painting unique and different from the Western painting.  We also analyze the possible philosophical reasons lying behind that difference. By the end of the unit, one will know things like why Chinese paintings are usually not framed and without many colors, or why Chinese people when drawing might prefer having more than one artistic perspective, as well as other aspects of Chinese art.This unit mainly focuses on three topics of Chinese music culture which are the origin and essence of the Chinese musical style, Confucian effect on the understanding of traditional Chinese music and Contemporary Chinese music development under the influence of western music. It is hoped that after completing this unit, students could feel and realize the uniqueness of Chinese traditional music, and have an overall understanding of the development of Chinese music culture.With a large variety of clothes and accessories, from the dragon robe of emperor to the humble clothes of common people， Chinese traditional costumes show the beauty of the material world. It’s also related to the social classes, feudal ethics and traditional philosophies. This unit centers on three major questions, trying to show specific details of the splendid costumes as well as explaining the cultural implication, such as the ranks of imperial court, the customs of weddings and funerals, the gender issue in Tang dynasty, etc.Chinese food is well-known throughout the world for its appearance, aroma and flavor. The uniqueness of Chinese food lies not only in its appearance and flavor, but also in its style of preparation, cooking and presentation. Chinese food culture was gradually formed in the development of Chinese society and civilization and was in turn helped shape the character and temperament of the Chinese people. As a panorama of Chinese culture, Chinese food is generally believed to be one of the best channels to know this country, its people and culture. There is a profound philosophy under Chinese food culture, and this lesson will help the learners understand why eating and drinking is of special importance to the Chinese, not only to their physical wellbeing but also to their mental health and harmony.Festivals are an important part of Chinese culture. A significant number of festivals in folklore are rich in various elements of Chinese traditional culture. Do you know what the most important Chinese holiday is? Do you know what Chinese people eat, what clothes they wear and what other interesting things they do during those holidays? More important do you know the reason why they are doing that? Watch the \"Festival Culture\" unit to find that out. The unit is rich in contents supplied with exciting media that brings you to the amazing world of Chinese festivals.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Luther and the West",
+        "course_desc": "In this course we will discuss the history of some ideas that have been hugely influential in the modern west and that were taken out to the rest of the world. The discussion centers on an extraordinary and historically important figure, a sixteenth century German man named Martin Luther. Luther is recognized today as the originator of many of the most significant ideas that continue to affect and shape who we as modern people are and how we see the world and ourselves for better and for worse.\n\nIn the first section, we will explore why Luther thought the Bible was the most important volume for everyone to have and read. Included here will be a careful consideration of Luther's anti-Judaism, which contributed to western antisemitism and some of the greatest horrors of the twentieth century.\n\nIn the second section, we will talk about the idea of freedom and how Luther's understanding of freedom in Christ affected the way modern thinkers understood what it means to be human in community. Important in this section is the consequential contradiction between freedom and slavery in western thought and their co-existence in western societies.\n\nThe third section will be all about the many complicated relations between religion and politics.\n\nNOTE:  Students wishing to sign up for free access to all instructional course content should click on the \"Sign-In\" button in the upper right hand corner. Those who wish to take the course and complete a certificate that requires payment, please click the Enroll button on the left side of this page.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "史記 (Shi Ji)",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "Chinese",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "3-6 hours a week",
+            "Duration": "8 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "At the Origins of the Mediterranean Civilization: Archaeology of the City from the Levant to the West - 3rd-1st millennium BC",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "8 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "From World War to White Heat: the RAF in the Cold War",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "FutureLearn",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "5 hours a week",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Visualizing Imperialism & the Philippines, 1898-1913",
+        "course_desc": "In this course we use visual records as a way of understanding history at the turn of the 20th century. Learners will learn how to navigate visual primary sources and use them to investigate: \r\n\r\nThe roundtable discussion format of the course will set up a discursive and exploratory style of learning. Learners will be exposed to multiple points of view as the teaching team brings together scholars who have studied the topics from different disciplines. Learners will also learn how to work with visual evidence as primary sources to assemble arguments. For teachers, the course presents a number of units developed for the MIT Visualizing Cultures (VC) project. The instructors are the authors who created the VC resource, and the course provides a pathway into the VC website content. The VC website is widely taught in both secondary and college courses, and is the primary resource for this course. Educators can selectively pick modules that target needs in their classrooms; the course can be used in a “flipped” classroom where students are assigned modules as homework.\n      \n          \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nA roundtable discussion on the relationship between visual images and US expansion, as well as the contemporary implications of teaching and disseminating images in a digital environment.",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "History",
+            "Cost": "Free Online Course",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "$49 Certificate Available",
+            "Effort": "1-4 hours a week",
+            "Duration": "19 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Star Trek: Inspiring Culture and Technology",
+        "course_desc": "Why has , which began as a failed network series, become so influential? Instead of fading away, the  universe now encompasses feature films, additional television series, and a universe of fan conventions and memorabilia. What about the shows and movies resonate with so many people? The powerful vision of futuristic space exploration drew on real history and contemporary issues to enhance its storytelling.  inspired audiences to ask fundamental questions about who they are and how they relate to the world around them.When you enroll in this course, you will examine how ’s live action television shows and motion pictures affected audiences around the world. With your hosts, Margaret Weitekamp and Scott Mantz, you will discover the connections between  and history, culture, technology and society. You will hear from experts, watch clips from the shows and films and debate with fellow fans. Verified students will have the opportunity to dive more deeply into the course content with access to more videos, expert interviews, tv and film clips, and opportunities to explore your own perspectives on and understanding of 's lasting impact.Through critical analysis and object exploration, you will examine how  tackled controversial topics, such as race, gender, sexuality, and ethics. Then, the mission is yours. Join the community to engage in civil discourse. Use evidence to understand how  shaped and still influences our technology and society. This course is offered under license by CBS Consumer Products.\n      \n          In this course, you'll begin with an introduction to the course format, your instructors, and your fellow learners.\r\n\r\nThen, you'll dive into the course to investigate the following questions:",
+        "course_info": {
+            "Provider": "edX",
+            "Subject": "Film & Theatre",
+            "Cost": "Free Online Course",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "$40 Certificate Available",
+            "Effort": "1-3 hours a week",
+            "Duration": "7 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Промышленность, инженерное образование и наука: история и перспективы",
+        "course_desc": "",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "Education & Teaching",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "Russian",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "3-5 hours a week",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The Worldview of Thomas Berry:  The Flourishing of the Earth Community",
+        "course_desc": "Thomas Berry (1914-2009) was a historian of world religions and an early voice awakening moral sensibilities to the environmental crisis.  He is known for articulating a “new story” of the universe that explores the implications of the evolutionary sciences and cultural traditions for creating a flourishing future.  \n\nThis course investigates Berry’s life and thought in relation to the Journey of the Universe project.  It draws on his books, articles, and recorded lectures to examine such ideas as: the New Story, the Great Work, and the emerging Ecozoic era.  The course explores Berry’s insights into cosmology as a context for locating the human in a dynamic unfolding universe and thus participating in the creative work of our times. In particular, we will examine Berry’s reflections on renewal and reform in the areas of ecology, economics, education, spirituality, and the arts.\n\n\t\nCourse Rationale:\n\n\tThomas Berry was an original, creative, and comprehensive thinker, especially regarding the critical nature of our global environmental crisis.  His intellectual importance resides in his response to the ecological crisis by bringing together the humanities and science in an evolutionary narrative.  In addition, he articulated the need for the moral participation of the world religions in addressing environmental issues.  He came to this realization largely through his study of cosmologies embedded within religious traditions.  Sensing the significance of these stories as “functional cosmologies” he explored the widespread influence that these stories transmitted through a tradition, for example, in rituals, ethics, and subsistence practices.\n      \n          Learn what this course is about, who's teaching it, and other ways you can explore this topic. Meet and greet your peers as well! Mary Evelyn and John talk about their first encounters with Thomas Berry.Thomas Berry was a scholar of Earth’s cultures; someone who inspired others to understand that the scientific story of the universe was a primary revelation, on the part with the world’s religions, and needing to be integrated with world’s cultures.Learn how Pierre Teilhard de Chardin inspired Thomas Berry. Discover Special Relativity as a way of showing the omnipresence of the “within.”Thomas Berry’s Differentiation, Subjectivity, and Communion as the overall guidance the New Story provides for humanity.\nThomas Berry's notion of the human as being derivative of the Earth Community: a primary governing principle for moving into the ecological era.\nFrom a biological level, what is happening in our time is a recoding of Earth’s processes when natural selection is being overpowered by cultural selection, so that human decision has become geological in its reach. Thomas Berry summarized this by saying that the crucial task of our time is to reinvent the human species with the systems of Earth’s life by means of story and shared dream experience.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "6 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Burgos: Deciphering Secrets of Medieval Spain",
+        "course_desc": "This advanced course focuses on two primary goals: (1) appraising how Jews, Christians, and Muslims shaped the history of medieval Spain and (2) mastering the craft of Spanish paleography, the skill of identifying Spanish handwriting in the 11th- through 15th-century manuscripts. Through the lens of the medieval history of Burgos, we dedicate 75% percent of our efforts to developing pragmatic expertise in the interpretation of Carolingian/French/Gothic handwriting. \n\nSpecifically, the course explores how the royal Castilian city of Burgos influenced, and was influenced by, Jews, Christians, and Muslims. We closely evaluate the Spanish Christian Reconquest, the Plague and the 14th-century Castilian civil war, anti-Jewish pogroms, the emergence of elite conversos (Jewish converts to Christianity), and the role of the king and Roman Catholic Church in the creation of Catholic Spain. Through onsite interviews in archives and museums in Burgos, we experience the medieval city, artifacts, and manuscripts. While we teach using Spanish manuscripts, very little or no knowledge of the Spanish language is necessary to complete the course.\n\nUsing an intensive array of paleography practices, exams, independent projects, and collaborative efforts, you will garner exceptional skills that you can apply to interpreting any medieval European handwriting. To demonstrate your mastery of paleography you will (1) create a 14th-15th-century alphabet, numeral, and abbreviation guide using manuscript images, and (2) transcribe one selection from a medieval manuscript.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "10-12 hours a week",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The Changing Landscape of Ancient Rome. Archaeology and History of the Palatine Hill",
+        "course_desc": "Studying ancient - as well as medieval or modern - cities basically means telling local urban stories based on the reconstruction of changing landscapes through the centuries. Given the fragmentary nature of archaeological evidence, it is necessary to create new images that would give back the physical aspect of the urban landscape and that would bring it to life again. We are not just content with analyzing the many elements still visible of the ancient city. The connections between objects and architectures, visible and non visible buildings, which have been broken through time have to be rejoined, to acknowledge the elements that compose the urban landscape. \n\nLandscape and its content are a very relevant and still vital part of any national cultural heritage. The course will introduce students to the way we have been reflecting on over the last twenty years and still are engaged with the study of the past of our cities, beginning from the most complex case in the ancient Mediterranean World: the core of Italy and of Roman Empire. On the other hand, knowledge means also preservation and defense of material remains and cultural memory.\n\n“The Changing Landscape of Ancient Rome. Archeology and History of the Palatine Hill” presents to a large public the topographical lay-out of the most relevant part of the city (according the Greek and Roman Historians Rome was founded on the Palatine). Research developed on the Palatine since the end of last century by the team of Sapienza Classical Archaeologists opened a new phase in the urban archaeological investigation and in the scientific debate about the relation between archaeological features and literary tradition as well as the “correct use“ of both kind of evidence, key issues of wide archaeological and historical significance.\n      \n          As a welcome module, the course will start discussing how we can move back through time and space to draw an updated archeological chart of the Palatine, to be integrated when possible with missing or lost part of the ancient overall framework, in order to be turned into the basic tool for describing diachronically architectural and topographical continuity and discontinuity. This aiming at the reconstructions of sequences of facts and at a historical reconstruction tout-court. \nBy the end of this module you will able to:\n- classify archaeological evidence\n- draw an archaeological chart\n- try to integrate missing part of buildings/monuments if possibleThe whole story of city parts begins before the foundation of the city itself. In this module we will discuss how archaeological evidence and roman cultural memory allow to envision the faster and faster development from a number of dispersed peer communities to unified settlement, anticipating and somehow preparing the birth of the City.\nBy the end of this module you will able to:\n- identify central Italian Bronze and Iron Age artifacts\n- define and identify pre- and proto-urban topographical and social organization \n- try to compare archaeological features and literary traditionApril 21st year 753 before common era. This is the day when the Romans believed their city had been founded. And they were probably right. According to the Roman foundation legend, a prince born in Alba Longa by a god and the young king’s daughter - Romulus - founded the city. He celebrated an elaborated rite on the Palatine, killed his twin brother - Remus - encircled the Palatine with a sacred wall, gave the Romans a constitution and reigned over the new born city for 37 years. Thanks to the results of our recent archaeological excavations we know now that the core of the legend is true. By the end of this module you will able to: - discuss present state of scientific debate about the birth of the city in Central Italy - define and identify urban political organizations - identify Late Iron Age and Early Archaic artifacts and building techniques.Just one hundred and fifty years after the foundation, huts and pebble streets were substituted by more substantial buildings and paved streets. On and around the Palatine, as well as in other districts of the city, Houses and temples resting on squared blocks foundations and covered by roofs made of clay tiles replaced huts. Streets were paved by rock slabs and new drains allowed to keep lower areas dry, even during flooding winter seasons. In year 509 before common era, the king was sent into exile and two young aristocrats declared themselves first annual magistrates of a new State: the Roman Republic. From the 5th to the end of the 3rd century before common era, Rome had to fight to survive and the urban lay-out of the hill is not altered by relevant changes.\n\nBy the end of this module you will able to:\n- discuss major changes occurred between the late archaic period, early- and mid- republican phases in Rome\n- define and identify a certain number of Roman monuments and/or places\n- identify Late Archaic and early/middle Repubblican artifacts, decorations and building techniquesIn the course of nearly three hundred years – from 509 till 202 b.c.e. -  central, southern and northern Italy were conquered by the Romans and included into the Roman political organization as submitted or allied territories. Later on, year 146 b.c.e. was the real turning point. Greece became a Roman Province. Carthage – a city in north Africa, Rome’s enemy number one – was destroyed. The Mediterranean sea was roman: Mare nostrum, they called it: “Our Sea”. The republican political system was still working but this was, in fact, the beginning of a new Empire. The luxurious residences of the most eminent civil and political actors - nobles, knights, senators, magistrates and so forth - were on the Palatine, “the most beautiful part of the City”.\nBy the end of this module you will able to:\ndiscuss major changes occurred during the Late Republican phase in Rome\ndefine and identify a certain number of Roman monuments and/or places\nidentify Late Repubblican artifacts, decorations and building techniquesYear 31 b.c.e. After nearly fifty year of Civil Wars, a 32 years old man, son of a sister of Julius Caesar, defeated his last enemy. Few years later - 27 and 23 b.c.e. – Roman Senators assigned him an immense power, asking him to watch over a new era of peace and respect for Roman laws and ancient traditions. They called him Augustus, a word meaning “blessed by Jupiter the king of the Gods”. The nephew of Julius Caesar became the first Emperor of  Rome, and choose the Palatine as his own residing place.\n\nBy the end of this module you will able to:\n- discuss major changes occurred between Late Republican phase and Augustan age in Rome\n- define and identify a certain number of Roman monuments and/or places\n- identify Augustan artifacts, decorations and building techniquesImperial Rome was much more like a contemporary metropolis than we can imagine. Urban landscape, in particular on and around the Palatine, was crowded by: luxury residences and, first among them, the Imperial Palace on the Palatine; buildings for spectacles; baths: buildings for leisure and culture; temples and cult places for traditional gods and for new gods, that is the deified emperors; blocks of multiple storey buildings. This is how Rome should have looked like when poets and writers called her the “Golden City” (Aurea Roma). \nBy the end of this module you will able to:\n- discuss major changes occurred during Early Imperial period in Rome\n- define and identify a certain number of Roman monuments and/or places\n- identify Early Imperial artifacts, decorations and building techniques\nThe embellishment of the city went on for a little further. At the beginning of the 4th century, Constantine the Great, first Christian Emperor, restored the imperial palace on the Palatine and also offered in different parts of the city monumental churches to the “new” God of the “new” Faith. The “Golden Rome”, even if wounded and besieged by the so-called “Barbarian People” pressing from East Europe and Middle East, still preserved her splendor.\n476 A.D.: The German King Odoacre dethrones the last Roman Emperor, Romulus Augustus. 535 A.D.: Justinianus Emperor of Byzantium – once the capital of the eastern part of the Roman Empire -  send a fleet and an army to Italy in order to “free Rome from the Barbarians”. 552 A.D.: 27 years later. War is over at last and the generals sent by Justinianus conquer Rome. But less than one thousand people lived in the urban area. Small churches, huts, small herb and vegetables gardens, tombs were scattered here and there in the vast area of the nearly empty city, between the skeletons of the ancient ruined buildings.\nBy the end of this module you will able to:\n- discuss major changes occurred during Middle and Late Imperial period in Rome\n- define and identify a certain number of Roman monuments and/or places\n- identify Middle and Late Imperial artifacts, decorations and building techniques.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "8 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "История и теория медиа (History and theory of media)",
+        "course_desc": "Еще в конце 19 века исследователи обратили внимание на значимость роли медиа в социальных, политических, экономических, культурных процессах, а в 20 веке масс-медиа стали целой индустрией, производящей и воспроизводящей прообразы и репрезентации этих процессов, идеологии и картины мира. 21 век же ставит новые вопросы о том, что такое медиа и как они участвуют в формировании личности, конструировании социального пространства, политических режимов и в развитии экономики. \n\nОсновная цель курса – сформировать базовые представления о развитии медиа и нарисовать карту обширного поля медиатеорий. В связи с этим он состоит из двух частей – первая посвящена истории развития медиасистем, а вторая рассматривает ключевые теории медиа.  \n\nПервая часть курса знакомит с основными технологическими вехами в развитии медиа и в то же время позволяет увидеть историю медиа как историю развития социального института. Основное внимание уделяется развитию институтов медиа преимущественно с момента появления национальных государств в Западной Европе до настоящего момента.  Курс рассматривает роль, которую играют медиа в формировании национальных идентичностей, капиталистической экономики, представлений о гражданских свободах и т.д. Отдельный модуль посвящен истории цензуры, поскольку история медиа тесно связана с этим явлением. \n\nВторая часть курса посвящена рассмотрению ключевых теоретических подходов к изучению медиа и коммуникаций, возникавших начиная с 1940-х годов и до сегодняшнего дня. Так, слушатели познакомятся с эмпирико-функционалистской и лингвистической группами медиа теорий, с идеями критической теории, парадигмой медиадетерминизма, теориями сетевого общества, с коммуникационным аспектом социологии технических инноваций, с микросоциальными теориями коммуникации, с изучением медиа в рамках направления cultural studies и политэкономии.\n      \n          В данном модуле вы познакомитесь с основными понятиями курса: медиа, коммуникация, информация, средство коммуникации, масс-медиа, СМИ и СМК. На первый \"невооруженный\" взгляд некоторые термины могут показаться синонимами, но на самом деле есть принципиальная разница между ними. Можно сказать, что это пересекающиеся множества - есть общие области значений, а есть исключительные. В разных подходах к истории медиа и в разных научных школах акцент делается больше на том или ином понятии из этого списка, поэтому важно сразу \"на берегу\" разобраться, в чем они пересекаются, а в чем различны. В данном модуле вы познакомитесь с тем, как можно изучать развитие обществ через изменения коммуникативных систем, медианосителей, методов контроля медиа. Медиа здесь рассматривается как сложный общественный институт, участвующий в различных процессах - экономических, политических, социальных. Этот модуль позволит соединить имеющиеся у вас знания в области истории (преимущественно, конечно, Западной Европы) с данными о том, как в разные эпохи развивались технологии коммуникации. История общества будет рассматриваться через фокус используемых в данный момент медиа. На этой неделе мы совершим исторический экскурс в механизмы контроля и регулирования содержания массовых коммуникаций, начиная от средневековых цензурных уставов и статутов и заканчивая преимущественно конституционными принципами, регулирующими свободу слова. Фактически, историю медиа можно изучать через изучение того, как менялись механизмы контроля медиа.  Эта неделя посвящена изучению социальной истории основных медианосителей и средств коммуникации. Мы рассмотрим различные системы письменности, материальные формы книги, электрические системы передачи информации (телеграф и телефон) и то, как это повлияло на социальные практики. Если прежде мы рассматривали медиа как социальный институт, то сейчас мы опускаемся на уровень повседневности - в этом модуле мы будем говорить о том, как обычные (и не только) люди использовали медиа в разные исторические эпохи. На этой неделе вы познакомитесь с общей классификацией теорий медиа и обзором предметов исследования в различных теориях медиа. После этого мы начнем разбирать три самых ранних группы теорий. Начнем с эмпирико-функционалистской группы теорий, которая занималась изучением эффектов и функций медиа в общественной жизни. Это одна из рано появившихся групп теорий (после Первой Мировой войны), которая, впрочем, с тех пор развивается, претерпела много изменений и до сих пор актуальна, прежде всего в американской социологии. Второй основополагающей группой теорий медиа можно считать критическую теорию, которая рассматривает медиа как одну из индустрий капиталистического общества. Эта группа теорий, глубоко укорененных в европейскую философию, в каком-то смысле противопоставлена американскому эмпирико-функционализму - далекие от эмпирических исследований \"среднего охвата\", ее представители осмысляют глубинные проблемы индустриализации культуры, массового общества, публичной сферы и т.д.Третьей основополагающей группой теорий является лингвистическая группа теорий, рассматривающая медиа в контексте проблем языка и текста. В этом модуле вводится понятие знака, очень важное для любых исследований в данной области. Представлены основные авторы, используемые сегодня в лингвистических и семиотических исследованиях медиа. Развитие информационных технологий в середине 20 века было отрефлексировано большим количеством авторов и теорий. В данном модуле представлены ключевые фигуры, так или иначе связанные с этой темой. Стоит оговориться, что Торонтская школа не до конца может быть отнесена к направлению жесткого медиадетерминизма, равно как и ее яркий представитель Маршалл Маклюэн. Здесь же мы поговорим о Кастельсе, который по аналогии с маклюэновской \"Галактикой Гутенберга\" предложил свое видение \"Галактики Интернета\". Здесь мы рассмотрим социальные теории, рассматривающие как распространение и внедрение инноваций. Это также очень важная группа теорий для нашего времени, когда \"технологическая сингулярность\" очень близка (хотя не факт, что реально возможна). Современные медиа мы будем рассматривать как новые технологии.В этой части курса будут рассмотрены микросоциальные теории, связанные с коммуникациями. Как люди используют медиа, общаясь в малых группах? Как медиа участвуют в социализации, формируют представление о значимых других и т.д.? Символический интеракционизм, этнометодология и другие теории будут рассмотрены в этой связи. Здесь мы разберем социальные теории медиапотребления, возникшие в рамках парадигмы Cultural Studies (культуральных исследований). Интерес к культуральным исследованиям дал новый толчок к изучению медиа в контексте культур - как этнических, национальных, религиозных, так и повседневных - культуры чтения, например. Современный мультикультурный мир предлагает много материала для изучения в рамках данного подхода.В данном модуле мы рассмотрим политэкономические современные медиатеории. В первую очередь проблему медиакапитала. Развившаяся из критической теории эта группа теорий наследует ее основные родовые черты, но адаптируется уже к экономике конца 20 - начала 21 века. Так мы коснемся темы культурных и креативных индустрий с позиций представителей политической экономии массовых коммуникаций..",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "Russian",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "12 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Historia de las reglas del fútbol en Inglaterra y en Argentina",
+        "course_desc": "¡Bienvenidos a este curso! En este primer módulo veremos los siguientes temas: los antecedentes documentados sobre la existencia del fútbol a partir del Siglo XIV; el fútbol a partir del Siglo XVIII; el fútbol en las “Public Schools” en el Siglo XIX; el fútbol en la Universidad en el Siglo XIX; conclusiones del período.Estamos en la segunda semana del curso y veremos los siguientes temas: creación de una autoridad común; unificación de las reglas a través de la competición de la F.A. Cup (original rules of the F.A. Cup); la necesidad de una autoridad y regulación unitarias para las reglas de juego del fútbol y la constitución del Internacional Football Asocciation Board (IFAB)Bienvenidos a la tercer semana del curso. En esta semana veremos los siguientes temas: sustrato social y jurídico sobre el que  nace el fútbol oficial; se funda la AFA inglesa y se organiza la competición; el fútbol argentino de principios del Siglo XX; última escisión, huelga de 1931 y definitiva legalización del profesionalismo; conclusiones sobre la evolución del período.Estamos en la semana 4 del curso. En esta semana veremos los siguientes temas: un monopolio nacional que integra un monopolio internacional; la reforma del Estatuto de AFA de 1974-; otros sistemas de competición.Llegamos a la última semana del curso. En esta semana veremos los siguientes temas: la reglamentación federativa; las normas estatales sobre contratación de deportistas; las transferencias de futbolistas; derechos económicos y federativos en los Tribunales de Justicia de Argentina; conclusiones sobre la evolución del período.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "Spanish",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "The History of Modern Israel -  Part II: Challenges of Israel as a sovereign state",
+        "course_desc": "This course deals with the Israeli politics, economy, society and culture, since its creation in 1948 till today. It analyzes the construction of the Israeli historical narrative as an identity-building narrative, intending to inculcate a collective memory to a diverse society. We will focus on key events and essential components that shaped the Israeli society from the fifties till the present. We will also discuss the changes that the Israeli society experiences in its almost seventy years of existence and how it affects its politics and culture. Among the topics we will discuss issues such as immigration, economic transformation, political upheaval, religious Zionism and post-Zionism, privatization and Americanization, Holocaust increasing role in shaping Israel's identity, diversity and multiculturalism, as well as the enduring conflict with the Palestinians and the Arab world.\n\nThis course is a direct extension of the first part \"The History of Modern Israel: From an Idea to a State\", so if you have not yet taken it, we highly recommend you start your learning from there (https://www.coursera.org/learn/history-israel/).\n\nIn order to receive academic credit for this course you must successfully pass the academic exam on campus. For information on how to register for the academic exam – https://tauonline.tau.ac.il/registration\n\nAdditionally, you can apply to certain degrees using the grades you received on the courses. Read more on this here – \nhttps://go.tau.ac.il/b.a/mooc-acceptance\n\nTeachers interested in teaching this course in their class rooms are invited to explore our Academic High school program here – https://tauonline.tau.ac.il/online-highschool\n\n\n* This course is a joint effort of Tel Aviv University &  Israel Institute (www.israelinstitute.org)\n* This course uses media material from various archives, courtesy to Yad Vashem Archive for their help.\n* This course is self-paced. Once you register,  you can participate in the course anytime, as often as you wish and over any stretch of time",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Duration": "5 weeks long"
+        }
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "description": "Coexistence in Medieval Spain: Jews, Christians, and Muslims",
+        "course_desc": "This week introduces the idea of co-existence in medieval Spain. We begin our study of medieval Spain by briefly viewing Roman Spain and then learning about the Visigoths.  Supplemental information places medieval Iberia within the contexts of European, Byzantine, and Islamic civilizations. The honors section of the course introduces \"The Historian's Craft\" and the task of \"viewing\".In this section of the course, we advance our investigation of medieval Spain to learn about Islamic al-Andalus (Islamic Spain) and Jewish Sefarad (Jewish Spain). This includes a study of the Islamic conquest of Visigothic Spain and the subsequent development of the Umayyad Dynasty. We evaluate the complexities of conflicts between religious groups and within religious groups. We witness interfaith collaboration. Islamic sciences are presented as is the Golden Age of the Spanish Jews.  We view Islamic art and architecture. Lastly, in our honors section we continue with our study of the Historian's Craft and the task of \"reading\".First, we continue with an investigation of the third principal culture of Iberian Peninsula -- Spanish Christian Hispania. We seek out more specific examples of the Christian kingdom's impact on political, religious, social, intellectual, and economic issues. Next, we examine the rise of the Spanish Christian Kingdom of Castile and Leon and the impact of King Alfonso X \"The Learned\". We study how Spanish Christians created culture through material objects and architecture. In addition, we explore the complications of Christians governing religious minorities in their lands. The honors section of the course continues with our study of the Historian's Craft and the task of \"analyzing\".This section of the course presents the end of coexistence in medieval Spain, which was characterized by the creation of new types of peoples (conversos, Jewish converts to Christianity), religious intolerance and expulsions. Multiple examples of the fluctuations in the relationships of Jews, Christians, and Muslims, are examined as Catholic Spain took shape. Special attention is also directed to Spanish archives that preserve this history. We take a closer look at the end of convivencia in the city of Plasencia, Spain, and view a digital video narration. As the Spanish Middle Ages did not occur in a vacuum, we share with you eight scholarly endeavors from the \"Global Middle Ages\" Project. The honors section of the course continues with our study of the Historian's Craft and the task of \"reflecting\" and features the music of the Texas Early Music Project.The final section of the course prompts students in the Honors Track to interpret and evaluate a historical artifact from medieval Spain (a material object, architecture, or a manuscript). This peer-reviewed project is not a required to complete the course as a regular student.",
+        "course_info": {
+            "Provider": "Coursera",
+            "Subject": "History",
+            "Cost": "Free Online Course (Audit)",
+            "Session": "Upcoming",
+            "Language": "English",
+            "Certificate": "Paid Certificate Available",
+            "Effort": "1-5 hours a week",
+            "Duration": "5 weeks long"
+        }
+    }
+]

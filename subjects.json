@@ -1,0 +1,447 @@
+[
+    {
+        "title": "Computer Science",
+        "subject": "Artificial Intelligence",
+        "url": "/subject/ai"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Algorithms and Data Structures",
+        "url": "/subject/algorithms-and-data-structures"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Internet of Things",
+        "url": "/subject/internet-of-things"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Information Technology",
+        "url": "/subject/information-technology"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Cybersecurity",
+        "url": "/subject/cybersecurity"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Computer Networking",
+        "url": "/subject/computer-networking"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Machine Learning",
+        "url": "/subject/machine-learning"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "DevOps",
+        "url": "/subject/devops"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Deep Learning",
+        "url": "/subject/deep-learning"
+    },
+    {
+        "title": "Computer Science",
+        "subject": "Blockchain and Cryptocurrency",
+        "url": "/subject/blockchain-cryptocurrency"
+    },
+    {
+        "title": "Business",
+        "subject": "Management & Leadership",
+        "url": "/subject/management-and-leadership"
+    },
+    {
+        "title": "Business",
+        "subject": "Finance",
+        "url": "/subject/marketing-and-finance"
+    },
+    {
+        "title": "Business",
+        "subject": "Entrepreneurship",
+        "url": "/subject/entrepreneurship"
+    },
+    {
+        "title": "Business",
+        "subject": "Professional Development",
+        "url": "/subject/professional-development"
+    },
+    {
+        "title": "Business",
+        "subject": "Marketing",
+        "url": "/subject/marketing"
+    },
+    {
+        "title": "Business",
+        "subject": "Strategic Management",
+        "url": "/subject/strategic-management"
+    },
+    {
+        "title": "Business",
+        "subject": "Industry Specific",
+        "url": "/subject/industry-specific"
+    },
+    {
+        "title": "Business",
+        "subject": "Business Intelligence",
+        "url": "/subject/business-intelligence"
+    },
+    {
+        "title": "Business",
+        "subject": "Accounting",
+        "url": "/subject/accounting"
+    },
+    {
+        "title": "Business",
+        "subject": "Human Resources",
+        "url": "/subject/human-resources"
+    },
+    {
+        "title": "Business",
+        "subject": "Project Management",
+        "url": "/subject/project-management"
+    },
+    {
+        "title": "Humanities",
+        "subject": "History",
+        "url": "/subject/history"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Literature",
+        "url": "/subject/literature"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Foreign Language",
+        "url": "/subject/foreign-language"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Grammar & Writing",
+        "url": "/subject/grammar-writing"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Philosophy",
+        "url": "/subject/philosophy"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Religion",
+        "url": "/subject/religion"
+    },
+    {
+        "title": "Humanities",
+        "subject": "ESL",
+        "url": "/subject/esl"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Culture",
+        "url": "/subject/culture"
+    },
+    {
+        "title": "Humanities",
+        "subject": "Sports",
+        "url": "/subject/sports"
+    },
+    {
+        "title": "Data Science",
+        "subject": "Bioinformatics",
+        "url": "/subject/bioinformatics"
+    },
+    {
+        "title": "Data Science",
+        "subject": "Big Data",
+        "url": "/subject/big-data"
+    },
+    {
+        "title": "Data Science",
+        "subject": "Data Mining",
+        "url": "/subject/data-mining"
+    },
+    {
+        "title": "Data Science",
+        "subject": "Data Analysis",
+        "url": "/subject/data-analysis"
+    },
+    {
+        "title": "Data Science",
+        "subject": "Data Visualization",
+        "url": "/subject/data-visualization"
+    },
+    {
+        "title": "Personal Development",
+        "subject": "Communication Skills",
+        "url": "/subject/communication-skills"
+    },
+    {
+        "title": "Personal Development",
+        "subject": "Career Development",
+        "url": "/subject/career-development"
+    },
+    {
+        "title": "Personal Development",
+        "subject": "Self Improvement",
+        "url": "/subject/self-improvement"
+    },
+    {
+        "title": "Art & Design",
+        "subject": "Music",
+        "url": "/subject/music"
+    },
+    {
+        "title": "Art & Design",
+        "subject": "Film & Theatre",
+        "url": "/subject/film-and-theatre"
+    },
+    {
+        "title": "Art & Design",
+        "subject": "Digital Media",
+        "url": "/subject/digital-media"
+    },
+    {
+        "title": "Art & Design",
+        "subject": "Visual Arts",
+        "url": "/subject/visual-arts"
+    },
+    {
+        "title": "Art & Design",
+        "subject": "Design & Creativity",
+        "url": "/subject/design-and-creativity"
+    },
+    {
+        "title": "Programming",
+        "subject": "Mobile Development",
+        "url": "/subject/mobile-development"
+    },
+    {
+        "title": "Programming",
+        "subject": "Web Development",
+        "url": "/subject/web-development"
+    },
+    {
+        "title": "Programming",
+        "subject": "Databases",
+        "url": "/subject/databases"
+    },
+    {
+        "title": "Programming",
+        "subject": "Android Development",
+        "url": "/subject/android-development"
+    },
+    {
+        "title": "Programming",
+        "subject": "iOS Development",
+        "url": "/subject/ios-development"
+    },
+    {
+        "title": "Programming",
+        "subject": "Game Development",
+        "url": "/subject/game-development"
+    },
+    {
+        "title": "Programming",
+        "subject": "Programming Languages",
+        "url": "/subject/programming-languages"
+    },
+    {
+        "title": "Programming",
+        "subject": "Software Development",
+        "url": "/subject/software-development"
+    },
+    {
+        "title": "Engineering",
+        "subject": "Electrical Engineering",
+        "url": "/subject/electrical-engineering"
+    },
+    {
+        "title": "Engineering",
+        "subject": "Mechanical Engineering",
+        "url": "/subject/mechanical-engineering"
+    },
+    {
+        "title": "Engineering",
+        "subject": "Civil Engineering",
+        "url": "/subject/civil-engineering"
+    },
+    {
+        "title": "Engineering",
+        "subject": "Robotics",
+        "url": "/subject/robotics"
+    },
+    {
+        "title": "Engineering",
+        "subject": "Nanotechnology",
+        "url": "/subject/nanotechnology"
+    },
+    {
+        "title": "Engineering",
+        "subject": "GIS",
+        "url": "/subject/gis"
+    },
+    {
+        "title": "Health & Medicine",
+        "subject": "Nutrition & Wellness",
+        "url": "/subject/nutrition-and-wellness"
+    },
+    {
+        "title": "Health & Medicine",
+        "subject": "Disease & Disorders",
+        "url": "/subject/disease-and-disorders"
+    },
+    {
+        "title": "Health & Medicine",
+        "subject": "Public Health",
+        "url": "/subject/public-health"
+    },
+    {
+        "title": "Health & Medicine",
+        "subject": "Health Care",
+        "url": "/subject/health-care"
+    },
+    {
+        "title": "Health & Medicine",
+        "subject": "Nursing",
+        "url": "/subject/nursing"
+    },
+    {
+        "title": "Mathematics",
+        "subject": "Statistics & Probability",
+        "url": "/subject/statistics"
+    },
+    {
+        "title": "Mathematics",
+        "subject": "Foundations of Mathematics",
+        "url": "/subject/foundations-of-mathematics"
+    },
+    {
+        "title": "Mathematics",
+        "subject": "Calculus",
+        "url": "/subject/calculus"
+    },
+    {
+        "title": "Mathematics",
+        "subject": "Algebra & Geometry",
+        "url": "/subject/algebra-and-geometry"
+    },
+    {
+        "title": "Science",
+        "subject": "Chemistry",
+        "url": "/subject/chemistry"
+    },
+    {
+        "title": "Science",
+        "subject": "Physics",
+        "url": "/subject/physics"
+    },
+    {
+        "title": "Science",
+        "subject": "Environmental Science",
+        "url": "/subject/environmental-science"
+    },
+    {
+        "title": "Science",
+        "subject": "Astronomy",
+        "url": "/subject/astronomy"
+    },
+    {
+        "title": "Science",
+        "subject": "Biology",
+        "url": "/subject/biology"
+    },
+    {
+        "title": "Science",
+        "subject": "Quantum Mechanics",
+        "url": "/subject/quantum-mechanics"
+    },
+    {
+        "title": "Science",
+        "subject": "Climate Change",
+        "url": "/subject/climate-change"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Sociology",
+        "url": "/subject/sociology"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Economics",
+        "url": "/subject/economics"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Psychology",
+        "url": "/subject/psychology"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Anthropology",
+        "url": "/subject/anthropology"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Political Science",
+        "url": "/subject/political-science"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Law",
+        "url": "/subject/law"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Urban Planning",
+        "url": "/subject/urban-planning"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Human Rights",
+        "url": "/subject/human-rights"
+    },
+    {
+        "title": "Social Sciences",
+        "subject": "Sustainability",
+        "url": "/subject/sustainability"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "K12",
+        "url": "/subject/k12"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Higher Education",
+        "url": "/subject/higher-education"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "STEM",
+        "url": "/subject/stem"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Teacher Development",
+        "url": "/subject/teacher-development"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Course Development",
+        "url": "/subject/course-development"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Online Education",
+        "url": "/subject/online-education"
+    },
+    {
+        "title": "Education & Teaching",
+        "subject": "Test Prep",
+        "url": "/subject/test-prep"
+    }
+]
